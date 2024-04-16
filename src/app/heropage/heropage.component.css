@@ -1,0 +1,17 @@
+.content{
+    text-align: left;
+    position: absolute;
+    top: 50px;
+    /* padding-bottom: 50px; */
+    padding: 20px;
+    margin-top: 10%; 
+}
+.img{
+    height: 900px;
+}
+.view{
+    display: flex;
+    gap: 700px;
+    padding-left: 60px;
+    /* margin-left: 100px; */
+}
